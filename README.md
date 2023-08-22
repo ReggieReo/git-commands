@@ -214,7 +214,7 @@ test/
    ```
 * List branches both locally, and remote.
    ```
-   ggit branch --all
+   git branch --all
    ```
 
 
